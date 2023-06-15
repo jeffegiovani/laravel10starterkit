@@ -1,11 +1,11 @@
 {
     "name": "jeffegiovani/taluballoons_site",
     "type": "project",
-    "description": "Talu Ballons Website",
-    "keywords": ["website", "decor"],
+    "description": "Talu Balloons Website",
+    "keywords": ["website", "decor", "balloons"],
     "license": "N/A",
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "abordage/laravel-html-min": "^0.2.0",
         "artesaos/seotools": "^1.2",
         "guzzlehttp/guzzle": "^7.2",
@@ -14,6 +14,7 @@
         "laravel/sanctum": "^3.2",
         "laravel/tinker": "^2.8",
         "livewire/livewire": "^2.12",
+        "spatie/laravel-robots-middleware": "^1.3",
         "watson/active": "^7.0"
     },
     "require-dev": {

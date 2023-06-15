@@ -14,6 +14,10 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            backgroundImage: {
+                'header-light': "url('/img/header-light.jpg')",
+                'header-dark': "url('/img/header-dark.jpg')",
+              }
         },
     },
 

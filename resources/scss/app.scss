@@ -1,0 +1,13 @@
+
+@tailwind base;
+
+@import "animations.scss";
+
+@tailwind components;
+@tailwind utilities;
+
+@import "forms";
+
+@import "@domchristie/turn/dist/turn.css";
+
+@import "swiper/css/bundle";
